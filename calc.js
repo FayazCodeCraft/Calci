@@ -1,4 +1,7 @@
-
+/**
+ * Takes the input from the user
+ * @param {number} value 
+ */
     function appendToDisplay(value) {
       document.getElementById('display').value += value;
     }
